@@ -1,0 +1,5 @@
+[http]
+	proxy = socks5://127.0.0.1:10808
+[user]
+	email = cong0184@gmail.com
+	name = lanlanlu5678

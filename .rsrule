@@ -1,0 +1,42 @@
+# files
++ .gitconfig
++ .vimrc
++ .xinitrc
++ .zlogout
++ .zprofile
++ .zshrc
++ .delay.sh
++ .rsrule
+
+# v2ray dir
++ .v2ray/
++ .v2ray/v2admin.sh
++ .v2ray/v2config.py
+
+# vim dir
++ .vim/
++ .vim/*.vim
+
+# config
++ .config/
++ .config/fcitx5/
++ .config/fcitx5/conf/
++ .config/fcitx5/conf/classicui.conf
+
+# local
++ .local/
++ .local/share/
++ .local/share/fcitx5/
++ .local/share/fcitx5/rime/
++ .local/share/fcitx5/rime/default.custom.yaml
++ .local/share/fcitx5/rime/essay.dict.yaml
++ .local/share/fcitx5/rime/luna_pinyin.chengyusuyu.dict.yaml
++ .local/share/fcitx5/rime/luna_pinyin.computer.dict.yaml
++ .local/share/fcitx5/rime/luna_pinyin.custom.yaml
++ .local/share/fcitx5/rime/luna_pinyin.extended.dict.yaml
++ .local/share/fcitx5/rime/symbols.yaml
++ .local/share/fcitx5/rime/zhwiki.dict.yaml
+
+
+# exclude
+- *
